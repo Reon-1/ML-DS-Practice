@@ -1,0 +1,979 @@
+﻿country_code,country_name,indicator_id,indicator_name,index_id,index_name,value,year
+#country+code,#country+name,#indicator+id,#indicator+name,#index+id,#index+name,#indicator+value+num,#date+year
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,134.737,1990
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,132.557,1991
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,136.358,1992
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,137.549,1993
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,135.082,1994
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,139.239,1995
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,132.043,1996
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,124.575,1997
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,125.278,1998
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,120.058,1999
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,118.816,2000
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,118.047,2001
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,115,2002
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,111.926,2003
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,106.216,2004
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,101.456,2005
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,95.034,2006
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,89.634,2007
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,85.221,2008
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,82.717,2009
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,79.643,2010
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,80.049,2011
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,81.5,2012
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,82.881,2013
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,84.501,2014
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,81.619,2015
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,78.814,2016
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,75.975,2017
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,72.782,2018
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,71.667,2019
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,70.275,2020
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,68.777,2021
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,68.33,2022
+NPL,Nepal,abr,"Adolescent Birth Rate (births per 1,000 women ages 15-19)",GII,Gender Inequality Index,67.169,2023
+NPL,Nepal,assets,Assets (%),MPI,Multidimensional Poverty Index,7.706,2019
+NPL,Nepal,assets,Assets (%),MPI,Multidimensional Poverty Index,7.019,2022
+NPL,Nepal,child_mortality,Child mortality (%),MPI,Multidimensional Poverty Index,2.244,2019
+NPL,Nepal,child_mortality,Child mortality (%),MPI,Multidimensional Poverty Index,2.594,2022
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.037,1990
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.051,1991
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.06,1992
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.066,1993
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.074,1994
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.104,1995
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.103,1996
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.114,1997
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.094,1998
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.132,1999
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.124,2000
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.13,2001
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.102,2002
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.109,2003
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.099,2004
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.114,2005
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.093,2006
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.096,2007
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.125,2008
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.153,2009
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.178,2010
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.191,2011
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.2,2012
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.227,2013
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.276,2014
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.25,2015
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.362,2016
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.441,2017
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.491,2018
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.442,2019
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.533,2020
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.524,2021
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.527,2022
+NPL,Nepal,co2_prod,Carbon dioxide emissions per capita (production) (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,0.54,2023
+NPL,Nepal,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,31.793,2011
+NPL,Nepal,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,31.617,2012
+NPL,Nepal,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,31.396,2013
+NPL,Nepal,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,32.013,2014
+NPL,Nepal,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,32.108,2015
+NPL,Nepal,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,30.552,2016
+NPL,Nepal,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,30.386,2017
+NPL,Nepal,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,30.152,2018
+NPL,Nepal,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,30.033,2019
+NPL,Nepal,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,29.904,2020
+NPL,Nepal,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,29.72,2021
+NPL,Nepal,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,29.092,2022
+NPL,Nepal,coef_ineq,Coefficient of human inequality,IHDI,Inequality-adjusted Human Development Index,28.895,2023
+NPL,Nepal,cooking_fuel,Cooking fuel (%),MPI,Multidimensional Poverty Index,12.141,2019
+NPL,Nepal,cooking_fuel,Cooking fuel (%),MPI,Multidimensional Poverty Index,12.22,2022
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,1.238,1990
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,1.214,1991
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,1.19,1992
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,1.176,1993
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,1.386,1994
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,1.37,1995
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,1.342,1996
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,1.325,1997
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,1.307,1998
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,1.293,1999
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,1.486,2000
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,1.483,2001
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,1.67,2002
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,1.646,2003
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,1.826,2004
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,1.8,2005
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,1.758,2006
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,1.938,2007
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,1.901,2008
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,2.045,2009
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,2.178,2010
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,2.147,2011
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,2.478,2012
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,2.632,2013
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,2.787,2014
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,2.957,2015
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,3.103,2016
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,3.912,2017
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,4.53,2018
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,4.636,2019
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,4.508,2020
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,4.53,2021
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,4.628,2022
+NPL,Nepal,diff_hdi_phdi,Difference from HDI value (%),PHDI,Planetary pressuresâ€“adjusted Human Development Index,4.823,2023
+NPL,Nepal,drinking_water,Drinking water (%),MPI,Multidimensional Poverty Index,1.984,2019
+NPL,Nepal,drinking_water,Drinking water (%),MPI,Multidimensional Poverty Index,0.975,2022
+NPL,Nepal,electricity,Electricity (%),MPI,Multidimensional Poverty Index,4.11,2019
+NPL,Nepal,electricity,Electricity (%),MPI,Multidimensional Poverty Index,1.499,2022
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.273,1990
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.44,1991
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.672,1992
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.676,1993
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.714,1994
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,7.769,1995
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.12,1996
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.235,1997
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.35,1998
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.465,1999
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.58,2000
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.191,2001
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.713,2002
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,8.861,2003
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.078,2004
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.295,2005
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.87,2006
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,9.965,2007
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,10.393,2008
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.093,2009
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,11.888,2010
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.363,2011
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.504,2012
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.646,2013
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.569,2014
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.635,2015
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.703,2016
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.699,2017
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.819,2018
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.94,2019
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.645,2020
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.435,2021
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,12.464,2022
+NPL,Nepal,eys,Expected Years of Schooling (years),HDI,Human Development Index,13.754,2023
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,5.077,1990
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,5.354,1991
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,5.565,1992
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,5.777,1993
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,5.989,1994
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.201,1995
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.412,1996
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.624,1997
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,6.836,1998
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.048,1999
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.259,2000
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.437,2001
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.614,2002
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,7.88,2003
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.229,2004
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,8.579,2005
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.304,2006
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,9.683,2007
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.062,2008
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,10.802,2009
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,11.816,2010
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.379,2011
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.581,2012
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.784,2013
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.839,2014
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.893,2015
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.929,2016
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.979,2017
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.152,2018
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,13.324,2019
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.824,2020
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,11.597,2021
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,11.675,2022
+NPL,Nepal,eys_f,"Expected Years of Schooling, female (years)",GDI,Gender Development Index,12.356,2023
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.358,1990
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.423,1991
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.471,1992
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.518,1993
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.565,1994
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.612,1995
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.66,1996
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.707,1997
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.754,1998
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.802,1999
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.849,2000
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.811,2001
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.772,2002
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.809,2003
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.902,2004
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,9.994,2005
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.428,2006
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.579,2007
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,10.729,2008
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.394,2009
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,11.982,2010
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.347,2011
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.447,2012
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.525,2013
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.458,2014
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.391,2015
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.479,2016
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.415,2017
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.486,2018
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.558,2019
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,12.466,2020
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,13.272,2021
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,13.253,2022
+NPL,Nepal,eys_m,"Expected Years of Schooling, male (years)",GDI,Gender Development Index,13.967,2023
+NPL,Nepal,gdi_group,GDI Group,GDI,Gender Development Index,5,2023
+NPL,Nepal,gii_rank,GII Rank,GII,Gender Inequality Index,125,2023
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1108.106,1990
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1199.381,1991
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1227.804,1992
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1306.861,1993
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1447.562,1994
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1533.367,1995
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1730.235,1996
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1702.414,1997
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1735.209,1998
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1624.172,1999
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,1932.105,2000
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2056.531,2001
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2056.147,2002
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2315.174,2003
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2191.324,2004
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2231.514,2005
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2270.36,2006
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2308.512,2007
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2474.572,2008
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2506.955,2009
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2706.408,2010
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2785.257,2011
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2919.481,2012
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3021.651,2013
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3249.212,2014
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3374.018,2015
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3010.559,2016
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2422.265,2017
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2621.5,2018
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2915.255,2019
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2878.091,2020
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,2956.937,2021
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3131.674,2022
+NPL,Nepal,gni_pc_f,"Gross National Income Per Capita, female (2021 PPP$)",GDI,Gender Development Index,3184.53,2023
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2395.797,1990
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2430.69,1991
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2447.87,1992
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2412.271,1993
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2482.324,1994
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2449.102,1995
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2347.704,1996
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2510.124,1997
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2532.426,1998
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2801.251,1999
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2700.968,2000
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2782.619,2001
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2694.105,2002
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2556.866,2003
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2838.291,2004
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,2949.204,2005
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,3064.269,2006
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,3184.58,2007
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,3315.905,2008
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,3531.053,2009
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,3566.454,2010
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,3663.601,2011
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,3831.964,2012
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,3955.35,2013
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,4184.357,2014
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,4309.279,2015
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,4656.579,2016
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,5895.468,2017
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,6204.113,2018
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,6410.168,2019
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,6050.766,2020
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,6120.523,2021
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,6299.284,2022
+NPL,Nepal,gni_pc_m,"Gross National Income Per Capita, male (2021 PPP$)",GDI,Gender Development Index,6389.976,2023
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,1761.885,1990
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,1824.622,1991
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,1847.338,1992
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,1867.979,1993
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,1972.549,1994
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,1997.593,1995
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2042.876,1996
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2110.863,1997
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2137.832,1998
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2217.832,1999
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2319.286,2000
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2421.556,2001
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2376.251,2002
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2436.18,2003
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2514.449,2004
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2589,2005
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2664.657,2006
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2742.246,2007
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,2889.766,2008
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,3010.698,2009
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,3128.088,2010
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,3214.47,2011
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,3363.765,2012
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,3474.564,2013
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,3701.313,2014
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,3825.117,2015
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,3802.476,2016
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,4087.45,2017
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,4333.615,2018
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,4588.131,2019
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,4405.204,2020
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,4485.337,2021
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,4660.852,2022
+NPL,Nepal,gnipc,Gross National Income Per Capita (2021 PPP$),HDI,Human Development Index,4725.931,2023
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.318,1990
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.331,1991
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.341,1992
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.352,1993
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.364,1994
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.374,1995
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.386,1996
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.393,1997
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.4,1998
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.402,1999
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.417,2000
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.427,2001
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.433,2002
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.446,2003
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.452,2004
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.461,2005
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.474,2006
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.482,2007
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.493,2008
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.504,2009
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.521,2010
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.531,2011
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.538,2012
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.544,2013
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.55,2014
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.551,2015
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.55,2016
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.543,2017
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.554,2018
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.565,2019
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.561,2020
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.547,2021
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.557,2022
+NPL,Nepal,hdi_f,HDI female,GDI,Gender Development Index,0.567,2023
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.472,1990
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.477,1991
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.482,1992
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.486,1993
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.493,1994
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.497,1995
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.497,1996
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.505,1997
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.509,1998
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.517,1999
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.518,2000
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.523,2001
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.521,2002
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.522,2003
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.531,2004
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.538,2005
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.548,2006
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.554,2007
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.56,2008
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.572,2009
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.581,2010
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.589,2011
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.594,2012
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.599,2013
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.603,2014
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.603,2015
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.613,2016
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.627,2017
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.634,2018
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.639,2019
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.635,2020
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.643,2021
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.651,2022
+NPL,Nepal,hdi_m,HDI male,GDI,Gender Development Index,0.661,2023
+NPL,Nepal,hdi_rank,HDI Rank,HDI,Human Development Index,145,2023
+NPL,Nepal,housing,Housing (%),MPI,Multidimensional Poverty Index,12.156,2019
+NPL,Nepal,housing,Housing (%),MPI,Multidimensional Poverty Index,11.822,2022
+NPL,Nepal,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,42.5,2010
+NPL,Nepal,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,41.377,2011
+NPL,Nepal,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,41.377,2012
+NPL,Nepal,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,41.377,2013
+NPL,Nepal,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,43.891,2014
+NPL,Nepal,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,43.891,2015
+NPL,Nepal,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,40.881,2016
+NPL,Nepal,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,40.881,2017
+NPL,Nepal,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,40.881,2018
+NPL,Nepal,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,41.099,2019
+NPL,Nepal,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,41.099,2020
+NPL,Nepal,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,41.099,2021
+NPL,Nepal,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,39.8,2022
+NPL,Nepal,ineq_edu,Inequality in eduation,IHDI,Inequality-adjusted Human Development Index,39.8,2023
+NPL,Nepal,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,31.913,2011
+NPL,Nepal,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,31.913,2012
+NPL,Nepal,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,31.913,2013
+NPL,Nepal,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,31.913,2014
+NPL,Nepal,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,31.913,2015
+NPL,Nepal,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,31.913,2016
+NPL,Nepal,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,31.913,2017
+NPL,Nepal,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,31.913,2018
+NPL,Nepal,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,31.913,2019
+NPL,Nepal,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,31.913,2020
+NPL,Nepal,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,31.913,2021
+NPL,Nepal,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,31.913,2022
+NPL,Nepal,ineq_inc,Inequality in income,IHDI,Inequality-adjusted Human Development Index,31.913,2023
+NPL,Nepal,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,22.866,2010
+NPL,Nepal,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,22.09,2011
+NPL,Nepal,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,21.562,2012
+NPL,Nepal,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,20.898,2013
+NPL,Nepal,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,20.233,2014
+NPL,Nepal,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,20.518,2015
+NPL,Nepal,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,18.863,2016
+NPL,Nepal,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,18.363,2017
+NPL,Nepal,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,17.662,2018
+NPL,Nepal,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,17.086,2019
+NPL,Nepal,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,16.698,2020
+NPL,Nepal,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,16.146,2021
+NPL,Nepal,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,15.564,2022
+NPL,Nepal,ineq_le,Inequality in life expectancy,IHDI,Inequality-adjusted Human Development Index,14.972,2023
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,54.771,1990
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,55.65,1991
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,56.686,1992
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,57.597,1993
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,58.631,1994
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,59.323,1995
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,60.044,1996
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,60.823,1997
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,61.532,1998
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,62.035,1999
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,62.642,2000
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,63.288,2001
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,63.507,2002
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,64.229,2003
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,64.744,2004
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,65.275,2005
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,65.891,2006
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,66.169,2007
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,66.442,2008
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,66.6,2009
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,66.772,2010
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,67.123,2011
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,67.364,2012
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,67.598,2013
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,67.812,2014
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,67.374,2015
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,68.444,2016
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,68.74,2017
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,69.036,2018
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,69.299,2019
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,69.106,2020
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,68.385,2021
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,70.087,2022
+NPL,Nepal,le,Life Expectancy at Birth (years),HDI,Human Development Index,70.354,2023
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,55.343,1990
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,56.472,1991
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,57.763,1992
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,58.881,1993
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,59.903,1994
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,60.688,1995
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,61.58,1996
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,62.379,1997
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,63.047,1998
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,63.456,1999
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,64.157,2000
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,64.964,2001
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,65.63,2002
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,66.239,2003
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,66.856,2004
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,67.317,2005
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,67.877,2006
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.103,2007
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.299,2008
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.354,2009
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.35,2010
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.563,2011
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.787,2012
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.975,2013
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.158,2014
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,68.593,2015
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.771,2016
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,70.092,2017
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,70.422,2018
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,70.7,2019
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,70.772,2020
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,69.89,2021
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,71.56,2022
+NPL,Nepal,le_f,"Life Expectancy at Birth, female (years)",GDI,Gender Development Index,71.837,2023
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,54.177,1990
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,54.828,1991
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,55.634,1992
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,56.36,1993
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,57.399,1994
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,58.006,1995
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,58.571,1996
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,59.326,1997
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,60.067,1998
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,60.65,1999
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,61.168,2000
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,61.663,2001
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,61.477,2002
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,62.294,2003
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,62.713,2004
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.301,2005
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,63.962,2006
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,64.284,2007
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,64.624,2008
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,64.873,2009
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,65.207,2010
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,65.687,2011
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,65.94,2012
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,66.217,2013
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,66.459,2014
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,66.146,2015
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,67.105,2016
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,67.372,2017
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,67.627,2018
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,67.87,2019
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,67.453,2020
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,66.863,2021
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,68.586,2022
+NPL,Nepal,le_m,"Life Expectancy at Birth, male (years)",GDI,Gender Development Index,68.835,2023
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.73,1990
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,48.73,1991
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,52.28,1992
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,55.84,1993
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,59.39,1994
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,62.95,1995
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,66.5,1996
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,71.63,1997
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,76.75,1998
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,81.88,1999
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,84.91,2000
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,87.94,2001
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,90.97,2002
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,94,2003
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,91.12,2004
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,88.24,2005
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,85.36,2006
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,82.48,2007
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,79.6,2008
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,79.18,2009
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,78.76,2010
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,78.34,2011
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,77.92,2012
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,77.5,2013
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,79.7,2014
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,79.8,2015
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,53.86,2016
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,27.91,2017
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,27.18,2018
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,29.46,2019
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,30.85,2020
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,31.76,2021
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,33.06,2022
+NPL,Nepal,lfpr_f,"Labour force participation rate, female (% ages 15 and older)",GII,Gender Inequality Index,33.06,2023
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,79.79,1990
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,79.79,1991
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,78.87,1992
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.95,1993
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,77.04,1994
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,76.12,1995
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,75.2,1996
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,80.18,1997
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,85.17,1998
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,90.15,1999
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,90.56,2000
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,90.98,2001
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,91.39,2002
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,91.8,2003
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,90.99,2004
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,90.17,2005
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,89.36,2006
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,88.54,2007
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,87.73,2008
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,87.3,2009
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,86.88,2010
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,86.45,2011
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,86.03,2012
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,85.6,2013
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,86.8,2014
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,86.3,2015
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,70.63,2016
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,54.95,2017
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,54.77,2018
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,55.06,2019
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,54.88,2020
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,55.45,2021
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,56.11,2022
+NPL,Nepal,lfpr_m,"Labour force participation rate, male (% ages 15 and older)",GII,Gender Inequality Index,56.11,2023
+NPL,Nepal,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,32.2,2011
+NPL,Nepal,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,32.035,2012
+NPL,Nepal,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,31.93,2013
+NPL,Nepal,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,32.753,2014
+NPL,Nepal,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,32.696,2015
+NPL,Nepal,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,31.034,2016
+NPL,Nepal,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,30.952,2017
+NPL,Nepal,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,30.705,2018
+NPL,Nepal,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,30.629,2019
+NPL,Nepal,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,30.551,2020
+NPL,Nepal,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,30.369,2021
+NPL,Nepal,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,29.752,2022
+NPL,Nepal,loss,Overall loss (%),IHDI,Inequality-adjusted Human Development Index,29.743,2023
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,2.332,1990
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,2.242,1991
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,2.199,1992
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,2.258,1993
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,2.212,1994
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,2.272,1995
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,2.344,1996
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,2.301,1997
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,2.278,1998
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,2.319,1999
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,2.387,2000
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,2.471,2001
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,2.794,2002
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,2.979,2003
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,3.044,2004
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,3.128,2005
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,3.177,2006
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,3.262,2007
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,3.294,2008
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,3.436,2009
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,3.6,2010
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,3.664,2011
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,4.343,2012
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,4.494,2013
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,4.781,2014
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,4.945,2015
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,5.161,2016
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,6.406,2017
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,7.493,2018
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,7.927,2019
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,7.396,2020
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,7.654,2021
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,7.806,2022
+NPL,Nepal,mf,Material footprint per capita (tonnes),PHDI,Planetary pressuresâ€“adjusted Human Development Index,7.948,2023
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,961.231,1990
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,855.73,1991
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,812.868,1992
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,736.392,1993
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,703.461,1994
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,680.806,1995
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,628.125,1996
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,583.325,1997
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,543.057,1998
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,538.49,1999
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,503.981,2000
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,484.12,2001
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,465.749,2002
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,437.712,2003
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,391.707,2004
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,380.39,2005
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,357.876,2006
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,354.591,2007
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,343.525,2008
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,338.381,2009
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,349.205,2010
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,294.896,2011
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,287.718,2012
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,260.786,2013
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,253.2,2014
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,251.802,2015
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,223.84,2016
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,223.173,2017
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,201.154,2018
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,182.32,2019
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,174.41,2020
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,174.41,2021
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,174.41,2022
+NPL,Nepal,mmr,"Maternal Mortality Ratio (deaths per 100,000 live births)",GII,Gender Inequality Index,174.41,2023
+NPL,Nepal,mpi_rank,MPI Value (Range: 0 to 1),MPI,Multidimensional Poverty Index,0.074,2019
+NPL,Nepal,mpi_rank,MPI Value (Range: 0 to 1),MPI,Multidimensional Poverty Index,0.085,2022
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.467,1990
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.521,1991
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.575,1992
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.629,1993
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.682,1994
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.736,1995
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.768,1996
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.8,1997
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.831,1998
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.863,1999
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,2.895,2000
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,3,2001
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.052,2002
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.104,2003
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.156,2004
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.208,2005
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.26,2006
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.312,2007
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.364,2008
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.416,2009
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.468,2010
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.52,2011
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.563,2012
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.606,2013
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.648,2014
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.691,2015
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.734,2016
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,3.934,2017
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.133,2018
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.333,2019
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.418,2020
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.504,2021
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.504,2022
+NPL,Nepal,mys,Mean Years of Schooling (years),HDI,Human Development Index,4.504,2023
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.033,1990
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.086,1991
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.139,1992
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.192,1993
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.244,1994
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.297,1995
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.343,1996
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.388,1997
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.433,1998
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.479,1999
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.524,2000
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.64,2001
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.708,2002
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.776,2003
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.844,2004
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.912,2005
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,1.98,2006
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.048,2007
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.116,2008
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.184,2009
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.252,2010
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.32,2011
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.376,2012
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.433,2013
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.489,2014
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.545,2015
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.602,2016
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,2.817,2017
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.031,2018
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.246,2019
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.359,2020
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.472,2021
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.472,2022
+NPL,Nepal,mys_f,"Mean Years of Schooling, female (years)",GDI,Gender Development Index,3.472,2023
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.844,1990
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.912,1991
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,3.981,1992
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.049,1993
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.118,1994
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.187,1995
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.208,1996
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.229,1997
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.25,1998
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.272,1999
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.293,2000
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.39,2001
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.444,2002
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.498,2003
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.552,2004
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.606,2005
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.66,2006
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.714,2007
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.768,2008
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.822,2009
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.876,2010
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.93,2011
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,4.979,2012
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.027,2013
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.076,2014
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.124,2015
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.173,2016
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.316,2017
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.459,2018
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.602,2019
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.703,2020
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.804,2021
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.804,2022
+NPL,Nepal,mys_m,"Mean Years of Schooling, male (years)",GDI,Gender Development Index,5.804,2023
+NPL,Nepal,nutrition,Nutrition (%),MPI,Multidimensional Poverty Index,20.918,2019
+NPL,Nepal,nutrition,Nutrition (%),MPI,Multidimensional Poverty Index,26.247,2022
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,19.525,1990
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,20.037,1991
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,20.61,1992
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,21.18,1993
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,21.717,1994
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,22.245,1995
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,22.742,1996
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,23.219,1997
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,23.68,1998
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,24.125,1999
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,24.547,2000
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,24.947,2001
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,25.329,2002
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,25.689,2003
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,26.017,2004
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,26.309,2005
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,26.565,2006
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,26.788,2007
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,26.99,2008
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,27.173,2009
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,27.342,2010
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,27.464,2011
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,27.535,2012
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,27.59,2013
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,27.672,2014
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,27.824,2015
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,27.955,2016
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,28.011,2017
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,28.08,2018
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,28.414,2019
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,28.967,2020
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,29.475,2021
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,29.715,2022
+NPL,Nepal,pop_total,"Population, total (millions)",OTHER,Additional Indicators,29.695,2023
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.528,1990
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.528,1991
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.528,1992
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.528,1993
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.528,1994
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.528,1995
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.528,1996
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.528,1997
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,4.528,1998
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,6.415,1999
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.925,2000
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.925,2001
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.925,2002
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,7.925,2003
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,6.415,2004
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,6.415,2005
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,6.757,2006
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,17.325,2007
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,33.165,2008
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,33.165,2009
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,33.165,2010
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,33.165,2011
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,33.165,2012
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,33.165,2013
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,29.481,2014
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,29.549,2015
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,29.58,2016
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,29.58,2017
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,33.533,2018
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,33.533,2019
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,33.634,2020
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,33.634,2021
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,33.832,2022
+NPL,Nepal,pr_f,"Share of seats in parliament, female (% held by women)",GII,Gender Inequality Index,33.233,2023
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.472,1990
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.472,1991
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.472,1992
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.472,1993
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.472,1994
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.472,1995
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.472,1996
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.472,1997
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,95.472,1998
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,93.585,1999
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.075,2000
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.075,2001
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.075,2002
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,92.075,2003
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,93.585,2004
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,93.585,2005
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,93.243,2006
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,82.675,2007
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,66.835,2008
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,66.835,2009
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,66.835,2010
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,66.835,2011
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,66.835,2012
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,66.835,2013
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,70.519,2014
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,70.451,2015
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,70.42,2016
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,70.42,2017
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,66.467,2018
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,66.467,2019
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,66.366,2020
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,66.366,2021
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,66.168,2022
+NPL,Nepal,pr_m,"Share of seats in parliament, male (% held by men)",GII,Gender Inequality Index,66.767,2023
+NPL,Nepal,rankdiff_hdi_phdi,Difference from HDI rank,PHDI,Planetary pressuresâ€“adjusted Human Development Index,4,2023
+NPL,Nepal,sanitation,Sanitation (%),MPI,Multidimensional Poverty Index,4.867,2019
+NPL,Nepal,sanitation,Sanitation (%),MPI,Multidimensional Poverty Index,7.053,2022
+NPL,Nepal,school_attendance,School attendance (%),MPI,Multidimensional Poverty Index,7.795,2019
+NPL,Nepal,school_attendance,School attendance (%),MPI,Multidimensional Poverty Index,6.275,2022
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,8.308,1990
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,8.565,1991
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,8.822,1992
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,9.079,1993
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,9.335,1994
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,9.592,1995
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,9.915,1996
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,10.238,1997
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,10.561,1998
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,10.884,1999
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,11.207,2000
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,12.1,2001
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,12.613,2002
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,13.126,2003
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,13.639,2004
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,14.152,2005
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,14.665,2006
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,15.178,2007
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,15.691,2008
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,16.204,2009
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,16.717,2010
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,17.23,2011
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,17.627,2012
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,18.024,2013
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,18.421,2014
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,18.818,2015
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,19.215,2016
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,21.049,2017
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,22.883,2018
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,24.716,2019
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,25.651,2020
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,26.585,2021
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,26.585,2022
+NPL,Nepal,se_f,"Population with at least some secondary education, female (% ages 25 and older)",GII,Gender Inequality Index,26.585,2023
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,30.195,1990
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,30.598,1991
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,31.002,1992
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,31.405,1993
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,31.809,1994
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,32.212,1995
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,32.348,1996
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,32.484,1997
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,32.62,1998
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,32.756,1999
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,32.892,2000
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,33.85,2001
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,34.229,2002
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,34.608,2003
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,34.987,2004
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,35.366,2005
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,35.745,2006
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,36.124,2007
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,36.503,2008
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,36.882,2009
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,37.261,2010
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,37.64,2011
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,37.875,2012
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,38.11,2013
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,38.345,2014
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,38.58,2015
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,38.814,2016
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,39.811,2017
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,40.808,2018
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,41.805,2019
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,42.498,2020
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,43.191,2021
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,43.191,2022
+NPL,Nepal,se_m,"Population with at least some secondary education, male (% ages 25 and older)",GII,Gender Inequality Index,43.191,2023
+NPL,Nepal,years_of_schooling,Years of schooling (%),MPI,Multidimensional Poverty Index,26.079,2019
+NPL,Nepal,years_of_schooling,Years of schooling (%),MPI,Multidimensional Poverty Index,24.296,2022
